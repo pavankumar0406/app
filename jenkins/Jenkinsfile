@@ -1,6 +1,0 @@
-node {
-    
-    stage('Git clone ') {
-        
-    }
-}
